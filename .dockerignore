@@ -1,0 +1,37 @@
+# Version control
+.git
+.gitignore
+
+# Node.js
+node_modules
+npm-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Development tools and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+/build
+/dist
+
+# Testing
+/coverage
+/test
+*.test.js
+
+# Logs
+logs
+*.log

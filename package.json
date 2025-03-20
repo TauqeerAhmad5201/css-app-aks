@@ -1,0 +1,17 @@
+{
+  "name": "vibrant-css-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app with refreshing and vibrant CSS design",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "helmet": "^7.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
